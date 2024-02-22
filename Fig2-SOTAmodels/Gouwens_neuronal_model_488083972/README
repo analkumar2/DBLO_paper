@@ -1,0 +1,5 @@
+Please visit http://alleninstitute.github.io/AllenSDK/ for instructions on running this model.
+
+
+
+python3 -i -m allensdk.model.biophysical.runner manifest.json

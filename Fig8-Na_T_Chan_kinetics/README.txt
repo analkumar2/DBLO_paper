@@ -1,0 +1,1 @@
+Here, we use the three Na_T kinetics we have to make active models. Then compare the DBLO in the three models.
